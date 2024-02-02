@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Cecilia Bianchi Costa</h1>
 <h3 align="center">A passionate Web Developer in Canada</h3>
 
-- 🔭 I’m currently working on **Gravity-Assist**
+- 🔭 I’m currently working on **Gravity-Assist-V2**
 
 - 🌱 I’m currently learning **Tailwind**
 
